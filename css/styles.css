@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+h1 {
+    margin-top:0px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 6.0rem;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3.0rem;
+}
+
+h4 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+h5 {
+    text-align: right;
+    font-size: 1.2rem;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+}
+
+img{
+    vertical-align:middle;
+}
+
+li{
+    font-size: 1.8rem;
+    vertical-align: middle;
+    margin: 75px;
+}
+
+.cv-list{
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.invest {
+    color: blue;
+    font: 1.2em "Arial", sans-serif;
+}
+
+.top-container {
+    background-color: #4b778d;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle1-container {
+    background-color: #28b5b5;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.middle2-container {
+    background-color: #8fd9a8;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.bottom-container {
+    background-color: #d2e69c;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.blogger{
+    width: 30%;
+}
+
+.top-right-icon{
+    position: absolute;
+    right: 10%;
+    width: 10%;
+}
+
+.top-left-icon {
+    position: absolute;
+    left: 10%;
+    width: 10%
+}
+
+.bottom-left-icon{
+    position: absolute;
+    left: 10%;
+    bottom: 5%;
+    width: 10%;
+}
+
+.bottom-right-icon{
+    position: absolute;
+    right: 10%;
+    bottom: 5%;
+    width: 10%;
+}
+
+.clipboard{
+    width: 10%;
+    padding: 20px;
+}
+
+.stock-market{
+    width: 10%;
+    padding: 20px;
+}
+
+.innovation{
+    width:10%;
+    padding: 20px;
+}
+
+.education{
+    width:10%;
+    padding: 20px;
+}
+
+.cfa{
+    width:10%;
+    padding: 20px;
+}
+
+.programming{
+    width:10%;
+    padding: 20px;
+}
+
+.hobbies{
+    width:10%;
+    padding: 10px;
+}
+
+.hide{
+    display: none;
+}
+
+.hobbies:hover {
+    transform: scale(1.5);
+}
+
