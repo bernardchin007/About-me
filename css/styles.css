@@ -29,7 +29,7 @@ h5 {
 
 p {
     font-family: 'Roboto', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 img{
@@ -40,6 +40,12 @@ li{
     font-size: 1.8rem;
     vertical-align: middle;
     margin: 75px;
+}
+
+.contact {
+    position: relative;
+    left: 30%;
+    text-align: left;
 }
 
 .cv-list{
@@ -151,4 +157,6 @@ li{
 .hobbies:hover {
     transform: scale(1.5);
 }
+
+
 
