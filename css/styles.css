@@ -41,7 +41,7 @@ h5 {
 
 p {
     font-family: 'Roboto', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
 }
 
 img{
@@ -95,6 +95,29 @@ li{
     margin-top: 0px;
     padding-top: 20px;
     padding-bottom: 50px;
+}
+
+.button-display-left{
+    background-color: #8fd9a8;
+    border: 3px solid #555;
+    padding: 15px;
+    margin-top:10px;
+    margin-bottom: 80px;
+}
+
+.button-display-right{
+    background-color: #8fd9a8;
+    border: 3px solid #555;
+    padding: 15px;
+    margin-top:10px;
+    margin-bottom: 80px;
+}
+
+.mySlides{
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid #555;
+    width:50%;
 }
 
 .blogger{
