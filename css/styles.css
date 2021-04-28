@@ -117,7 +117,8 @@ li{
     margin-left: auto;
     margin-right: auto;
     border: 6px solid #555;
-    width:50%;
+    max-width:80%;
+    height: auto;
 }
 
 .blogger{
@@ -181,7 +182,7 @@ li{
 }
 
 .hobbies{
-    width:10%;
+    width:60%;
     padding: 10px;
 }
 
@@ -189,9 +190,50 @@ li{
     display: none;
 }
 
+/*
 .hobbies:hover {
     transform: scale(1.5);
+}*/
+
+/* Below is for Text on hover */
+
+.img_description {
+  visibility: hidden;
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
 }
 
+.hover_img1:hover .img_description {
+  visibility: visible;
+}
+.hover_img1:hover .hobbies{
+    transform: scale(1.3);
+}
 
+.hover_img2:hover .img_description {
+  visibility: visible;
+}
+.hover_img2:hover .hobbies{
+    transform: scale(1.3);
+}
 
+.hover_img3:hover .img_description {
+  visibility: visible;
+}
+.hover_img3:hover .hobbies{
+    transform: scale(1.3);
+}
+
+.hover_img4:hover .img_description {
+  visibility: visible;
+}
+.hover_img4:hover .hobbies{
+    transform: scale(1.3);
+}
+
+.hover_img5:hover .img_description {
+  visibility: visible;
+}
+.hover_img5:hover .hobbies{
+    transform: scale(1.3);
+}
