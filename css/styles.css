@@ -201,6 +201,7 @@ li{
   visibility: hidden;
   /* transition effect. not necessary */
   transition: opacity .2s, visibility .2s;
+  font-size: 1.5rem;
 }
 
 .hover_img1:hover .img_description {
