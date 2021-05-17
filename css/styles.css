@@ -3,6 +3,7 @@ body {
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 1.2rem;
+    background-color: #323232
 }
 
 html {
@@ -69,7 +70,6 @@ li{
 }
 
 .crypto-text{
-    background-color: #323232;
     position: relative;
     padding-top: 50px;
     padding-left: 20px;
@@ -103,9 +103,10 @@ li{
 }
 
 .coinmarketcap-currency-widget {
-    width: 23%;
+    width: 30%;
     margin: 10px 1%;
     float: left;
+    color: white;
 }
 
 .contact {
