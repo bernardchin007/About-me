@@ -75,6 +75,7 @@ li{
     padding-left: 20px;
     padding-bottom: 50px;
     color: white;
+    float: left;
 }
 
 .top-nav{
@@ -99,6 +100,12 @@ li{
 .top-nav a.active {
   background-color: #4b778d;
   color: white;
+}
+
+.coinmarketcap-currency-widget {
+    width: 23%;
+    margin: 10px 1%;
+    float: left;
 }
 
 .contact {
