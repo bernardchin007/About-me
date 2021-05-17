@@ -109,6 +109,13 @@ li{
     color: white;
 }
 
+.coinmarketcap-widget-marquee {
+    width: 90%
+    margin: 10px 1%;
+    float: left;
+    color: white;
+}
+
 .contact {
     text-align: centre;
 }
